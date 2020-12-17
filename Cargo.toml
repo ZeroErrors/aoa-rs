@@ -5,6 +5,9 @@ authors = ["Zero <nick@zero.dev>"]
 edition = "2018"
 license = "MIT"
 description = "Android Open Accessory Protocol"
+readme = "README.md"
+repository = "https://github.com/ZeroErrors/aoa-rs"
+keywords = ["android", "usb"]
 
 [dependencies]
 rusb = "0.6"
