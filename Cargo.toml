@@ -10,7 +10,7 @@ repository = "https://github.com/ZeroErrors/aoa-rs"
 keywords = ["android", "usb"]
 
 [dependencies]
-rusb = "0.7"
+rusb = "0.9"
 byteorder = "1.3"
 thiserror = "1.0"
 
